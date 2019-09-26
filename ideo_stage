@@ -1,0 +1,3 @@
+import csv
+import pandas as pd
+data = pd.read_csv('C:\Users\User\Desktop\NNSI\scraperideo\project.csv')
